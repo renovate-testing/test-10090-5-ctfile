@@ -29,7 +29,7 @@ def find_version():
 
 REQUIRES = [
     'docopt >= 0.6.2',
-    'filehandles >= 0.3.1',
+    'filehandles >=0.3.1.post1',
     'more_itertools >= 4.1.0'
 ]
 
